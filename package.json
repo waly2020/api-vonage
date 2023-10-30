@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev" : "nodemon ./server/routes/main.js",
-    "start" : "./server/routes/main.js"
+    "start" : "node server/routes/main.js"
   },
   "author": "waly le dev",
   "license": "ISC",
